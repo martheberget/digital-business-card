@@ -4,7 +4,7 @@ export function Interests() {
   return (
     <>
       <h1 className="interests__title">Interests</h1>
-      <p className="interests__paragraph">Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+      <p className="interests__paragraph">Cooking and baking enthusiast. Nature lover, avid hiker. Enjoy fine dining experiences. Spa aficionado. Fitness enthusiast. Coding addict. Nintendo Switch gamer. Wanderlust traveler.</p>
     </>
   );
 }
