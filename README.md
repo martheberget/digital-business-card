@@ -1,6 +1,6 @@
 # Digital Business Card 👩🏼‍💼
 
-This project was created as part of the Frontend Developer Career Path by Scrimba. The design is based on a Figma file provided by Scrimba. However, the development and implementation was done entirely by me. Built using HTML, CSS, and React.
+This project was created as part of the Frontend Developer Career Path by Scrimba. The design is based on a Figma file provided by Scrimba. However, the development and implementation was done entirely by me.
 
 ## Live Demo
 
